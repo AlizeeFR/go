@@ -1,11 +1,8 @@
 _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
 
-## The Open-Source Data Science Masters
-
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
-
-### Contents
-- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
+<summary> Contents
+<details>
+  - [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
   - [Contents](#contents)
   - [The Internet is Your Oyster](#the-internet-is-your-oyster)
   - [The Motivation](#the-motivation)
@@ -29,39 +26,9 @@ The open-source curriculum for learning Data Science. Foundational in both theor
     - [Learn](#learn)
   - [Notation](#notation)
 - [Contribute](#contribute)
-
-### The Internet is Your Oyster
-
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
-
-### The Motivation
-
-We need more Data Scientists.
-
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
-
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
-
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-
--- David Hardtke "How To Hire A Data Scientist" 13 Nov 2012
-
-### An Academic Shortfall
-
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
-
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
-
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
-
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
-
-### Ready?
-
-***
-
+  </details>
+  </summary>
+  
 ## The Open Source Data Science Curriculum
 
 Start here.
@@ -75,15 +42,12 @@ Start here.
 **Data Science with Open Source Tools** [Book ```$27```](http://bit.ly/book-datasciencewithopensourcetools)
   * *Topics:* Visualizing Data, Estimation, Models from Scaling Arguments, Arguments from Probability Models, What you Really Need to Know about Classical Statistics, Data Mining, Clustering, PCA, Map/Reduce, Predictive Analytics
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
-
-### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
-Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
-
 ### Ethics in Machine Intelligence
 Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
 * [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
 
+<summary> Math and Problem-Solving
+  <details>
 ### Math
 
 * [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
@@ -110,14 +74,11 @@ Human impact is a first-class concern when building machine intelligence technol
  * Differential Equations in Data Science [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 #### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
-
+</details>
+</summary>
 ### Computing
 
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
-
-#### **Algorithms**
- * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
- * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
 
 #### **Distributed Computing Paradigms**
  * *See Intro to Data Science [UW / Lectures on MapReduce](http://bit.ly/uwintrodatascience)
@@ -183,8 +144,9 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
 ### Data Communication and Design
 
-#### **Visualization**
-
+<summary>Data Visualization>
+  <details>
+  
  _Data Visualization and Communication_
  * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
 
@@ -206,15 +168,12 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 
  * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
  * Interactive Data Visualization for the Web / Scott Murray [Online Book](http://bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
-
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
-#### **Python** (Learning)
- * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
- * Python [Class / Google](http://bit.ly/T4j40A)
- * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
-
-#### **Python** (Libraries)
+</details>
+</summary>
+<summary> Python Libraries, Packages, and APIs
+  <details>
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
 [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
@@ -248,6 +207,8 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 #### **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
+</details>
+</summary>
 
 #### **iPython Data Science Notebooks**
  * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
