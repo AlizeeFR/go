@@ -132,6 +132,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 </summary>
 
 <summary> Applied Data Science: Intermediate
+  <details>
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
@@ -153,8 +154,8 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 </details>
 </summary>
-### Data Communication and Design
-
+<summary> Data Communication and Design
+<details>
 <summary>Data Visualization>
   <details>
   
@@ -183,6 +184,8 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 
 </details>
 </summary>
+
+
 <summary> Python Libraries, Packages, and APIs
   <details>
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
@@ -218,6 +221,8 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 #### **Visualization Packages**
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
+</details>
+</summary>
 </details>
 </summary>
 
