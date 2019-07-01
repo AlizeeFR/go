@@ -31,8 +31,8 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
   
 ## The Open Source Data Science Curriculum
 
-Start here.
-
+<summary>Start here
+<details>
 **Intro to Data Science** / UW [Videos](https://github.com/datasciencemasters/go/issues/102)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
@@ -45,10 +45,11 @@ Start here.
 ### Ethics in Machine Intelligence
 Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
 * [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
+</details>
+</summary>
 
 <summary> Math and Problem-Solving
   <details>
-### Math
 
 * [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
@@ -76,8 +77,10 @@ Human impact is a first-class concern when building machine intelligence technol
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 </details>
 </summary>
-### Computing
 
+
+<summary> Databases, Distributed Computing, and Data Design
+<details>
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 #### **Distributed Computing Paradigms**
@@ -99,7 +102,11 @@ How does the real world get translated into data? How should one structure that 
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
+</details>
+</summary>
 
+<summary>Applied Data Science
+  <details>
 ### **Machine Learning**
 
  _Foundational & Theoretical_
@@ -121,7 +128,10 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
+</details>
+</summary>
 
+<summary> Applied Data Science: Intermediate
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
@@ -141,7 +151,8 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * Data Analysis in Python [Tutorial](http://bit.ly/mode-python-tutorials)
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
-
+</details>
+</summary>
 ### Data Communication and Design
 
 <summary>Data Visualization>
@@ -210,30 +221,15 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 </details>
 </summary>
 
-#### **iPython Data Science Notebooks**
- * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
- * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
-
-#### Datasets are now [here](http://bit.ly/osdsm-datasets-link)
-
-#### R resources are now [here](http://bit.ly/osdsm-rresources)
-
-### Data Science as a Profession
-
- * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
- * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
-
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 
-***
-### Resources
-
+<summary> Resources
+<details>
 #### Read
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
-* [Wikipedia](http://bit.ly/1kKg0gD) - The free encyclopedia
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
@@ -245,19 +241,18 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [The Talking Machines - Podcast about Machine Learning](http://www.thetalkingmachines.com/)
 * [What Data Science Is / Hilary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
 
-#### Learn
-* [Metacademy](http://bit.ly/metacademy) - Search for a concept you want to learn
-* [Coursera](http://bit.ly/coursera-online-courses) - Online university courses
-* [Wolfram Alpha](http://bit.ly/wolframalpha-torus) - The smart number and info cruncher
-* [Khan Academy](http://bit.ly/khan-academy-lifeinsurance) - High quality, free learning videos
+#### **iPython Data Science Notebooks**
+ * [Data Science in IPython Notebooks](http://bit.ly/ipynb-ds) (Linear Regression, Logistic Regression, Random Forests, K-Means Clustering)
+ * [A Gallery of Interesting IPython Notebooks - Pandas for Data Analysis](http://bit.ly/ipyfordataanalysis)
 
-***
+#### Datasets are now [here](http://bit.ly/osdsm-datasets-link)
 
-### Notation
-Non-Open-Source books, courses, and resources are noted with ```$```.
+#### R resources are now [here](http://bit.ly/osdsm-rresources)
 
-## Contribute
 
-Please Contribute -- **this is Open Source!**
+### Data Science as a Profession
 
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+ * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
+ * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
+</details>
+</summary>
