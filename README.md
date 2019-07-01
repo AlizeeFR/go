@@ -31,7 +31,7 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
   
 ## The Open Source Data Science Curriculum
 
-<summary>Start here
+1) <summary>Start here
 <details>
 **Intro to Data Science** / UW [Videos](https://github.com/datasciencemasters/go/issues/102)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
@@ -48,7 +48,7 @@ Human impact is a first-class concern when building machine intelligence technol
 </details>
 </summary>
 
-<summary> Math and Problem-Solving
+2) <summary> Math and Problem-Solving
   <details>
 
 * [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
@@ -79,7 +79,7 @@ Human impact is a first-class concern when building machine intelligence technol
 </summary>
 
 
-<summary> Databases, Distributed Computing, and Data Design
+3) <summary> Databases, Distributed Computing, and Data Design
 <details>
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
@@ -105,7 +105,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 </details>
 </summary>
 
-<summary>Applied Data Science: Beginner
+4) <summary>Applied Data Science: Beginner
   
   <details>
     
@@ -133,7 +133,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 </details>
 </summary>
 
-<summary> Applied Data Science: Intermediate
+5) <summary> Applied Data Science: Intermediate
   <details>
     
 #### **Social Network & Graph Analysis**
@@ -159,7 +159,9 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 </summary>
 <summary> Data Communication and Design
 <details>
-<summary>Data Visualization
+
+
+5) <summary>Data Visualization
   <details>
   
  _Data Visualization and Communication_
@@ -229,10 +231,15 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 </details>
 </summary>
 
-### Capstone Project
+
+6) <summary> Capstone Project 
+</details>
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
+</details>
+</summary>
+
 
 <summary> Resources
 <details>
