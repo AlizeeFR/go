@@ -105,8 +105,10 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 </details>
 </summary>
 
-<summary>Applied Data Science
+<summary>Applied Data Science: Beginner
+  
   <details>
+    
 ### **Machine Learning**
 
  _Foundational & Theoretical_
@@ -133,6 +135,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
 
 <summary> Applied Data Science: Intermediate
   <details>
+    
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
@@ -156,7 +159,7 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 </summary>
 <summary> Data Communication and Design
 <details>
-<summary>Data Visualization>
+<summary>Data Visualization
   <details>
   
  _Data Visualization and Communication_
