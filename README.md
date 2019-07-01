@@ -1,7 +1,7 @@
 _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), founding partner of [Luminant Data Science Consulting](http://bit.ly/luminantdata)_
 
-<summary> Contents
-<details>
+<details> 
+  <summary> Contents </summary>
   - [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
   - [Contents](#contents)
   - [The Internet is Your Oyster](#the-internet-is-your-oyster)
@@ -26,13 +26,14 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
     - [Learn](#learn)
   - [Notation](#notation)
 - [Contribute](#contribute)
+
   </details>
-  </summary>
   
 ## The Open Source Data Science Curriculum
 
-1) <summary>Start here
-<details>
+<details> 
+  <summary> 1) Start Here </summary>
+    
 **Intro to Data Science** / UW [Videos](https://github.com/datasciencemasters/go/issues/102)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
@@ -45,11 +46,12 @@ _created & maintained by [@clarecorthell](http://bit.ly/clarecorthelltwitter), f
 ### Ethics in Machine Intelligence
 Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
 * [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
-</details>
-</summary>
 
-2) <summary> Math and Problem-Solving
+</details>
+
+
   <details>
+    <summary>2) Math and Problem-Solving </summary>
 
 * [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
@@ -76,11 +78,10 @@ Human impact is a first-class concern when building machine intelligence technol
 #### **Problem Solving**
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 </details>
-</summary>
 
 
-3) <summary> Databases, Distributed Computing, and Data Design
 <details>
+  <summary> 3) Databases, Distributed Computing, and Data Design </summary>
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
 #### **Distributed Computing Paradigms**
@@ -102,12 +103,11 @@ How does the real world get translated into data? How should one structure that 
  * [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
-</details>
-</summary>
 
-4) <summary>Applied Data Science: Beginner
+</details>
   
   <details>
+<summary>4) Applied Data Science: Beginner</summary
     
 ### **Machine Learning**
 
@@ -131,10 +131,10 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
 </details>
-</summary>
 
-5) <summary> Applied Data Science: Intermediate
+
   <details>
+  <summary>5)  Applied Data Science: Intermediate</summary>
     
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
@@ -156,14 +156,14 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
  * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * An Example Data Science Process [ipynb](http://bit.ly/ipydsprocess)
 </details>
-</summary>
-<summary> Data Communication and Design
+
+
 <details>
+  <summary>7 and 8: Data Communication and Design</summary>
 
 
-5) <summary>Data Visualization
   <details>
-  
+    <summary>7) Data Visualization</summary>  
  _Data Visualization and Communication_
  * The Truthful Art: Data, Charts, and Maps for Communication [Cairo / Book ```$21```](http://amzn.to/1UydGAc)
 
@@ -188,11 +188,11 @@ One of the "unteachable" skills of data science is an intuition for analysis. Wh
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
 </details>
-</summary>
 
 
-<summary> Python Libraries, Packages, and APIs
-  <details>
+
+  <details> 
+    <summary> 8) Python Libraries, Packages, and APIs </summary>
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
 [Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
@@ -227,22 +227,20 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
    * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
 </details>
-</summary>
 </details>
-</summary>
 
 
-6) <summary> Capstone Project 
-</details>
+<details>
+<summary> 9) Capstone Project </summary>
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
 * Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 </details>
-</summary>
 
 
-<summary> Resources
+
 <details>
+  <summary> Resources</summary>
 #### Read
 * [DataTau](http://bit.ly/datatau) - The "Hacker News" of Data Science
 * [The Signal and The Noise - Nate Silver ```$15```](http://amzn.to/1hoxQoG) - Bestseller Pop Sci
@@ -270,4 +268,4 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
  * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
 </details>
-</summary>
+
